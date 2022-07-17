@@ -1,0 +1,26 @@
+body{
+	text-align: justify;
+	background: ghostwhite ;
+}
+.nama {
+	font-family: arial;
+	font-size: 60px;
+	text-align: center;
+	font-weight: bold;
+	color: blue;
+}
+
+.container{
+	text-align: justify;
+	margin: 100px;
+	padding: 120px;
+	background: white;
+}
+.it {
+	text-align: justify;
+	font-size: 40px;
+}
+.judul {
+	font-size: 30px;
+	
+}
